@@ -8,7 +8,7 @@ A simple project created to learn about Maven, pom.xml and dependencies. As well
 3. MVELISO ROTO_214211983
 4. MARTINEZ SAFARI_219325332
 5. MOGAMMAD YAASEEN SAFODIEN_218336950
-6. NUSSAYR EL-BAGHDADI SAIDI_220425477
+6. [NUSSAYR EL-BAGHDADI SAIDI_220425477](https://github.com/Noussair-Saidi/ADP2-Group36)
 
 ## Built with:
 - [Maven](https://maven.apache.org/) - Dependency Management
